@@ -1,0 +1,1 @@
+curl --header "authorization: Bearer eyJhbGciOiJS" '127.0.0.1:8081/v1/sayHello/tingshai'
